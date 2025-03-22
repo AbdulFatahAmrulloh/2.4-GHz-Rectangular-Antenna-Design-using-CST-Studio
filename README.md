@@ -1,4 +1,3 @@
-Berikut deskripsi menarik dan profesional untuk repositori GitHub **2.4-GHz-Rectangular-Antenna-Design-using-CST-Studio** Anda:  
 
 ---  
 
@@ -21,7 +20,7 @@ Selamat datang di repositori ini! 🎉 Repositori ini berisi **desain dan simula
 ## 🚀 **Cara Menggunakan**  
 1️⃣ **Clone repositori ini ke lokal Anda**  
    ```bash
-   git clone https://github.com/2.4-GHz-Rectangular-Antenna-Design-using-CST-Studio/2.4-GHz-Rectangular-Antenna-Design.git
+   git clone https://github.com/AbdulFatahAmrulloh/2.4-GHz-Rectangular-Antenna-Design.git
    ```  
 2️⃣ **Buka file desain dalam CST Studio Suite**  
 3️⃣ **Jalankan simulasi dan analisis hasilnya**  
@@ -39,4 +38,4 @@ Kami terbuka untuk pengembangan lebih lanjut! Jika Anda memiliki ide atau ingin 
 
 ---
 
-Pastikan Anda mengganti `https://github.com/2.4-GHz-Rectangular-Antenna-Design-using-CST-Studio/2.4-GHz-Rectangular-Antenna-Design.git` dengan URL repositori yang sesuai. Semoga sukses dengan proyek desain antena ini! 🚀📡
+Pastikan Anda mengganti `https://github.com/AbdulFatahAmrulloh/2.4-GHz-Rectangular-Antenna-Design.git` dengan URL repositori yang sesuai. Semoga sukses dengan proyek desain antena ini! 🚀📡
