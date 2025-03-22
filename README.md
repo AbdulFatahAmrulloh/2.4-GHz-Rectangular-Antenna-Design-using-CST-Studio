@@ -1,3 +1,42 @@
-# 2.4-GHz-Rectangular-Antenna-Design-using-CST-Studio
-Desain antena rectangular 2.4 Ghz
-Proyek ini menyajikan desain antena rectangular untuk frekuensi 2.4 GHz menggunakan perangkat lunak simulasi elektromagnetik CST Studio. Desain ini bertujuan untuk aplikasi komunikasi nirkabel dan IoT yang bekerja pada rentang frekuensi 2.4 GHz. File ini mencakup model geometris antena, simulasi parameter S-parameter, dan analisis kinerja antena. Pengguna dapat memodifikasi dan menguji desain ini untuk berbagai aplikasi dan kebutuhan spesifik.
+Berikut deskripsi menarik dan profesional untuk repositori GitHub **2.4-GHz-Rectangular-Antenna-Design-using-CST-Studio** Anda:  
+
+---  
+
+# 📡 **2.4 GHz Rectangular Antenna Design using CST Studio**  
+
+Selamat datang di repositori ini! 🎉 Repositori ini berisi **desain dan simulasi antena rectangular (patch) 2.4 GHz** menggunakan **CST Studio Suite**, yang banyak digunakan dalam aplikasi komunikasi nirkabel seperti **Wi-Fi, Bluetooth, dan IoT**.  
+
+## 📂 **Isi Repositori**  
+✅ **File Desain CST** – Model antena yang dirancang di **CST Studio Suite**  
+✅ **Dokumentasi Desain** – Parameter dan spesifikasi antena (substrat, dimensi, frekuensi kerja)  
+✅ **Simulasi & Analisis** – Hasil analisis **Return Loss (S11), VSWR, Gain, dan Radiation Pattern**  
+✅ **Laporan & Gambar** – Hasil simulasi dalam bentuk laporan dan visualisasi 3D  
+
+## 📊 **Parameter Evaluasi**  
+🔹 **Resonance Frequency** – Frekuensi kerja utama di sekitar **2.4 GHz**  
+🔹 **Return Loss (S11)** – Indikator efisiensi pencocokan impedansi antena  
+🔹 **Voltage Standing Wave Ratio (VSWR)** – Menentukan efisiensi transmisi daya  
+🔹 **Gain & Radiation Pattern** – Analisis pola radiasi dan directivity antena  
+
+## 🚀 **Cara Menggunakan**  
+1️⃣ **Clone repositori ini ke lokal Anda**  
+   ```bash
+   git clone https://github.com/2.4-GHz-Rectangular-Antenna-Design-using-CST-Studio/2.4-GHz-Rectangular-Antenna-Design.git
+   ```  
+2️⃣ **Buka file desain dalam CST Studio Suite**  
+3️⃣ **Jalankan simulasi dan analisis hasilnya**  
+4️⃣ **Lakukan optimasi jika diperlukan**  
+
+## 🌍 **Tujuan & Manfaat**  
+🔹 Membantu perancangan **antena mikrostrip 2.4 GHz** dengan performa optimal  
+🔹 Menganalisis parameter utama untuk meningkatkan efisiensi antena  
+🔹 Berguna untuk penelitian di bidang **telekomunikasi, radar, dan IoT**  
+
+## 🤝 **Kontribusi**  
+Kami terbuka untuk pengembangan lebih lanjut! Jika Anda memiliki ide atau ingin menambahkan fitur baru, silakan buat **Pull Request** atau buka **Issue** di repositori ini.  
+
+📢 Jangan lupa untuk **⭐ Star** repositori ini jika Anda merasa bermanfaat!  
+
+---
+
+Pastikan Anda mengganti `https://github.com/2.4-GHz-Rectangular-Antenna-Design-using-CST-Studio/2.4-GHz-Rectangular-Antenna-Design.git` dengan URL repositori yang sesuai. Semoga sukses dengan proyek desain antena ini! 🚀📡
